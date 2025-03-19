@@ -38,6 +38,13 @@
     <nohttp-checkstyle.version>0.0.11</nohttp-checkstyle.version>
     <spring-format.version>0.0.43</spring-format.version>
 
+
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.source>8</maven.compiler.source>
+    <maven.compiler.target>8</maven.compiler.target>
+    <sonar.host.url>http://localhost:9000</sonar.host.url>
+    <sonar.login>squ_629a5346f8108a38b09c6dbc267eb8bfba5bc8db</sonar.login>
+
   </properties>
 
   <dependencies>
